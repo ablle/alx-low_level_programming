@@ -1,4 +1,4 @@
-#include "main.c"
+#include "main.h"
 /**
  * main - Print "_putchar" followed by a new line
  * Description: you are not allowed to include standard libraries

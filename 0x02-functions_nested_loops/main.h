@@ -1,5 +1,5 @@
 /**
- * main :include file
+ * main - include file
  * Return : 0
  */
 int _putchar(char c);

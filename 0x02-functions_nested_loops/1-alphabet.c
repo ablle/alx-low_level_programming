@@ -14,13 +14,3 @@ void print_alphabet(void)
 	}
 	_putchar('\n');
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-TTermwhile (c <= 'z')
-	{
-		_putchar(c);
-		c++;
-	}
-	_putchar('\n');
-}
